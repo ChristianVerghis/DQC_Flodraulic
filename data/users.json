@@ -1,0 +1,37 @@
+[
+  {
+    "email": "admin@example.com",
+    "password": "password123",
+    "name": "Test Admin",
+    "role": "admin",
+    "id": "001"
+  },
+  {
+    "email": "design@example.com",
+    "password": "password123",
+    "name": "Test Design",
+    "role": "design",
+    "id": "002"
+  },
+  {
+    "email": "production@example.com",
+    "password": "password123",
+    "name": "Test Production",
+    "role": "produciton",
+    "id": "003"
+  },
+  {
+    "email": "qc@example.com",
+    "password": "password123",
+    "name": "Test QC",
+    "role": "qc",
+    "id": "004"
+  },
+  {
+    "email": "shipping@example.com",
+    "password": "password123",
+    "name": "Test Shipping",
+    "role": "user",
+    "id": "005"
+  }
+]
